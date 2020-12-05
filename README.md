@@ -4,7 +4,7 @@
 This is a simple java springboot project with CRUD endpoint created. 
 
 ## Connection with MySQL
-dir - demo/src/main/resource/application.propoerties
+dir - demo/src/main/resource/application.properties
 
 <strong>Update your MySQL url and credentials</strong>
 
